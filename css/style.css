@@ -45,8 +45,8 @@
 	--glass-shadow: rgba(0, 0, 0, 0.08);
 	--text-primary: #0b0e10;
 	--text-secondary: #0b0e10;
-	--text-muted: #6e6e73;
-	--accent: #007aff;
+	--text-muted: #30304b;
+	--accent: #0050a5;
 	--blur-amount: 2px;
 	--border-radius: 28px;
 	--transition: 0.35s ease;
@@ -60,8 +60,8 @@
 	--glass-shadow: rgba(0, 0, 0, 0.4);
 	--text-primary: #f5f5f7;
 	--text-secondary: #f5f5f7;
-	--text-muted: #98989d;
-	--accent: #0a84ff;
+	--text-muted: #9c9ca0;
+	--accent: #42a1ff;
 }
 
 *,
