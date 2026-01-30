@@ -1,0 +1,25 @@
+{
+  "name": "shouldyouworktomorrow",
+  "version": "1.0.0",
+  "description": "> Spoiler alert: The answer is always **no**.",
+  "main": "build.js",
+  "scripts": {
+    "build": "node build.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dstN/shouldYouWorkTomorrow.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/dstN/shouldYouWorkTomorrow/issues"
+  },
+  "homepage": "https://github.com/dstN/shouldYouWorkTomorrow#readme",
+  "dependencies": {
+    "html-minifier": "^4.0.0"
+  }
+}
